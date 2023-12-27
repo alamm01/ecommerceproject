@@ -34,10 +34,8 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
 ## Mock-Up
-The application demonstrates GET routes for all categories, products, and tags in Insomnia. It also shows GET routes for a single category, product, and tag, as well as POST, PUT, and DELETE routes for categories.
+The application demonstrates GET routes for all categories, products, and tags in Insomnia. It also shows GET routes for a single category, product, and tag, as well as POST, PUT, and DELETE routes for products, tags, and categories.
 [Mock-Up](./Assets/13-orm-homework-demo-01.gif)
-[Mock-Up](./Assets/13-orm-homework-demo-02.gif)
-[Mock-Up](./Assets/13-orm-homework-demo-03.gif)
 
 ## Database Models
 The database should contain the following models:
