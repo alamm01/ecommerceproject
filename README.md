@@ -67,7 +67,7 @@ Completed routes in `product-routes.js`, `tag-routes.js`, and `category-routes.j
 After creating the models and routes, run `npm run seed` to seed data to the database for route testing.
 
 ## Video Walkthrough
-For a detailed walkthrough of the application, please view the video here: [Video Walkthrough](https://example.com/your-video-link)
+For a detailed walkthrough of the application, please view the video here: [Video Walkthrough](https://drive.google.com/file/d/1eBELKkC-h6DdcJ16r0GVUwqmj0nfj9_v/view)
 
 
 
